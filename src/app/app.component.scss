@@ -1,0 +1,12 @@
+.app-wrapper {
+  max-width: 1200px;
+  padding: 15px;
+  margin: 0 auto;
+  display: flex;
+}
+.image-list {
+  flex: 1;
+}
+.editor {
+  flex: 3;
+}
